@@ -1,0 +1,54 @@
+p_value	term_id	source	term_name
+9.73926940581152e-36	GO:0002250	GO:BP	adaptive immune response
+4.57749296512357e-22	GO:0006955	GO:BP	immune response
+2.80034680182965e-16	GO:0002376	GO:BP	immune system process
+0.0030942350247248	GO:0050896	GO:BP	response to stimulus
+1.90020059939719e-64	GO:0019814	GO:CC	immunoglobulin complex
+9.15772929133674e-15	GO:0005615	GO:CC	extracellular space
+1.45460261272851e-12	GO:0005576	GO:CC	extracellular region
+5.97816197105502e-10	GO:0005886	GO:CC	plasma membrane
+1.53447524985408e-08	GO:0071944	GO:CC	cell periphery
+6.95075639366331e-07	GO:0032991	GO:CC	protein-containing complex
+0.000108391411505471	GO:0016020	GO:CC	membrane
+0.0378971235167688	GO:0072562	GO:CC	blood microparticle
+7.92485163369674e-22	GO:0003823	GO:MF	antigen binding
+0.0332464940999107	GO:0030156	GO:MF	benzodiazepine receptor binding
+0.0280296288361343	HP:0000415	HP	Abnormality of the choanae
+6.86927166568156e-29	REAC:R-HSA-5690714	REAC	CD22 mediated BCR regulation
+9.51073983543258e-29	REAC:R-HSA-173623	REAC	Classical antibody-mediated complement activation
+1.80252985703652e-28	REAC:R-HSA-2871796	REAC	FCERI mediated MAPK activation
+5.92571522992865e-28	REAC:R-HSA-2029481	REAC	FCGR activation
+7.89052002772548e-28	REAC:R-HSA-166786	REAC	Creation of C4 and C2 activators
+1.04562856318049e-27	REAC:R-HSA-2168880	REAC	Scavenging of heme from plasma
+1.04562856318049e-27	REAC:R-HSA-2730905	REAC	Role of LAT2/NTAL/LAB on calcium mobilization
+6.63898444062406e-27	REAC:R-HSA-166663	REAC	Initial triggering of complement
+2.21627517649217e-26	REAC:R-HSA-2029485	REAC	Role of phospholipids in phagocytosis
+3.50678514052542e-26	REAC:R-HSA-2871809	REAC	FCERI mediated Ca+2 mobilization
+4.39075272751782e-26	REAC:R-HSA-983695	REAC	Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+7.84124420575766e-26	REAC:R-HSA-9664417	REAC	Leishmania phagocytosis
+7.84124420575766e-26	REAC:R-HSA-9664407	REAC	Parasite infection
+7.84124420575766e-26	REAC:R-HSA-9664422	REAC	FCGR3A-mediated phagocytosis
+1.30184196671162e-25	REAC:R-HSA-2029482	REAC	Regulation of actin dynamics for phagocytic cup formation
+2.9292234999231e-25	REAC:R-HSA-9664323	REAC	FCGR3A-mediated IL10 synthesis
+6.38327646214677e-25	REAC:R-HSA-2173782	REAC	Binding and Uptake of Ligands by Scavenger Receptors
+1.34359505412921e-24	REAC:R-HSA-977606	REAC	Regulation of Complement cascade
+4.78561929214932e-24	REAC:R-HSA-2029480	REAC	Fcgamma receptor (FCGR) dependent phagocytosis
+7.5584826419947e-24	REAC:R-HSA-166658	REAC	Complement cascade
+1.78791004989622e-23	REAC:R-HSA-202733	REAC	Cell surface interactions at the vascular wall
+2.96012174783967e-22	REAC:R-HSA-2871837	REAC	FCERI mediated NF-kB activation
+6.70675981211809e-22	REAC:R-HSA-2454202	REAC	Fc epsilon receptor (FCERI) signaling
+1.70048287129363e-21	REAC:R-HSA-9679191	REAC	Potential therapeutics for SARS
+7.4216410071272e-21	REAC:R-HSA-983705	REAC	Signaling by the B Cell Receptor (BCR)
+2.46350609734089e-20	REAC:R-HSA-9664433	REAC	Leishmania parasite growth and survival
+2.46350609734089e-20	REAC:R-HSA-9662851	REAC	Anti-inflammatory response favouring Leishmania parasite infection
+5.69801188214285e-20	REAC:R-HSA-198933	REAC	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+1.68850412374803e-19	REAC:R-HSA-9658195	REAC	Leishmania infection
+2.57762367757967e-17	REAC:R-HSA-109582	REAC	Hemostasis
+9.45218931826071e-14	REAC:R-HSA-9679506	REAC	SARS-CoV Infections
+1.64668514707943e-11	REAC:R-HSA-1280218	REAC	Adaptive Immune System
+3.48211900627725e-11	REAC:R-HSA-5653656	REAC	Vesicle-mediated transport
+2.02277382045375e-09	REAC:R-HSA-5663205	REAC	Infectious disease
+3.97716995896348e-09	REAC:R-HSA-168249	REAC	Innate Immune System
+3.65062801762635e-07	REAC:R-HSA-168256	REAC	Immune System
+2.58261590356645e-05	REAC:R-HSA-1643685	REAC	Disease
+3.87907291810157e-27	WP:WP4657	WP	22q11.2 copy number variation syndrome

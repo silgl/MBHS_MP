@@ -1,0 +1,105 @@
+p_value	term_id	source	term_name
+1.25915146362623e-14	GO:0061844	GO:BP	antimicrobial humoral immune response mediated by antimicrobial peptide
+3.24836716920525e-14	GO:0070098	GO:BP	chemokine-mediated signaling pathway
+1.19063090195959e-13	GO:1990869	GO:BP	cellular response to chemokine
+1.19063090195959e-13	GO:1990868	GO:BP	response to chemokine
+2.99996690166631e-13	GO:0030593	GO:BP	neutrophil chemotaxis
+3.3695106768565e-12	GO:0019730	GO:BP	antimicrobial humoral response
+5.08405163163698e-12	GO:1990266	GO:BP	neutrophil migration
+5.08405163163698e-12	GO:0071621	GO:BP	granulocyte chemotaxis
+7.04168002781958e-11	GO:0097530	GO:BP	granulocyte migration
+2.6539403926653e-09	GO:0071222	GO:BP	cellular response to lipopolysaccharide
+4.50591743245785e-09	GO:0071219	GO:BP	cellular response to molecule of bacterial origin
+1.28086167180994e-08	GO:0030595	GO:BP	leukocyte chemotaxis
+1.42227134443263e-08	GO:0097529	GO:BP	myeloid leukocyte migration
+1.93648679614942e-08	GO:0071216	GO:BP	cellular response to biotic stimulus
+2.99401453934848e-08	GO:0060326	GO:BP	cell chemotaxis
+5.18237841515354e-07	GO:0006959	GO:BP	humoral immune response
+7.53291741862349e-07	GO:0032496	GO:BP	response to lipopolysaccharide
+1.4834592201307e-06	GO:0002237	GO:BP	response to molecule of bacterial origin
+6.1686521418527e-06	GO:0050900	GO:BP	leukocyte migration
+6.87865397139279e-06	GO:0019221	GO:BP	cytokine-mediated signaling pathway
+0.00011245740960623	GO:0071396	GO:BP	cellular response to lipid
+0.000200730615192465	GO:0006935	GO:BP	chemotaxis
+0.000208673927686996	GO:0042330	GO:BP	taxis
+0.000277501604684755	GO:0045741	GO:BP	positive regulation of epidermal growth factor-activated receptor activity
+0.000465223937382507	GO:0009617	GO:BP	response to bacterium
+0.000573132427012799	GO:0033993	GO:BP	response to lipid
+0.000875673047328921	GO:0071345	GO:BP	cellular response to cytokine stimulus
+0.00333419881014414	GO:0034097	GO:BP	response to cytokine
+0.00603125654689801	GO:0038134	GO:BP	ERBB2-EGFR signaling pathway
+0.00680803849805289	GO:0098542	GO:BP	defense response to other organism
+0.0101279140877739	GO:0007176	GO:BP	regulation of epidermal growth factor-activated receptor activity
+0.0197315273915001	GO:0006954	GO:BP	inflammatory response
+0.0215025081242368	GO:0016477	GO:BP	cell migration
+0.0235566110210359	GO:0040011	GO:BP	locomotion
+0.0239210900932502	GO:0045742	GO:BP	positive regulation of epidermal growth factor receptor signaling pathway
+0.0296198865039151	GO:1901186	GO:BP	positive regulation of ERBB signaling pathway
+0.0316643964865671	GO:0048870	GO:BP	cell motility
+0.045733277718469	GO:1901701	GO:BP	cellular response to oxygen-containing compound
+0.00164886659628718	GO:0030669	GO:CC	clathrin-coated endocytic vesicle membrane
+0.00223087290520895	GO:0030662	GO:CC	coated vesicle membrane
+0.00514580812584274	GO:0045334	GO:CC	clathrin-coated endocytic vesicle
+0.0151272467055382	GO:0005615	GO:CC	extracellular space
+0.0228749045384171	GO:0030666	GO:CC	endocytic vesicle membrane
+0.0352034687750162	GO:0030665	GO:CC	clathrin-coated vesicle membrane
+0.0456221000808151	GO:0030135	GO:CC	coated vesicle
+0.0462656162453241	GO:0005576	GO:CC	extracellular region
+1.12094266689952e-25	GO:0045236	GO:MF	CXCR chemokine receptor binding
+3.75522777473102e-20	GO:0008009	GO:MF	chemokine activity
+1.69462999662576e-17	GO:0042379	GO:MF	chemokine receptor binding
+6.99406293797574e-13	GO:0005125	GO:MF	cytokine activity
+3.38823542982636e-12	GO:0048018	GO:MF	receptor ligand activity
+4.5680490205633e-12	GO:0030546	GO:MF	signaling receptor activator activity
+1.64851781299173e-11	GO:0030545	GO:MF	signaling receptor regulator activity
+4.81980649974188e-10	GO:0048248	GO:MF	CXCR3 chemokine receptor binding
+2.66332133347358e-09	GO:0005126	GO:MF	cytokine receptor binding
+5.39593298340416e-09	GO:0001664	GO:MF	G protein-coupled receptor binding
+1.00075615089197e-07	GO:0140677	GO:MF	molecular function activator activity
+1.4970371509958e-06	GO:0098772	GO:MF	molecular function regulator activity
+0.000163133683802806	GO:0008083	GO:MF	growth factor activity
+0.000221743913188532	GO:0030297	GO:MF	transmembrane receptor protein tyrosine kinase activator activity
+0.00134531421122783	GO:0005102	GO:MF	signaling receptor binding
+0.00321907151648096	GO:0008201	GO:MF	heparin binding
+0.00534848131889674	GO:0005154	GO:MF	epidermal growth factor receptor binding
+0.00534848131889674	GO:0030296	GO:MF	protein tyrosine kinase activator activity
+0.0258935493618716	GO:0019887	GO:MF	protein kinase regulator activity
+0.0295103548866621	GO:0005539	GO:MF	glycosaminoglycan binding
+6.97589053227616e-14	KEGG:04061	KEGG	Viral protein interaction with cytokine and cytokine receptor
+4.23189127832449e-10	KEGG:04062	KEGG	Chemokine signaling pathway
+7.10046398513537e-09	KEGG:04060	KEGG	Cytokine-cytokine receptor interaction
+2.54899575381979e-05	KEGG:04657	KEGG	IL-17 signaling pathway
+0.000388749098574142	KEGG:05323	KEGG	Rheumatoid arthritis
+0.00164816432759218	KEGG:04668	KEGG	TNF signaling pathway
+0.0150206191087895	KEGG:05134	KEGG	Legionellosis
+0.0332194718902246	KEGG:05120	KEGG	Epithelial cell signaling in Helicobacter pylori infection
+3.11923366344577e-15	REAC:R-HSA-380108	REAC	Chemokine receptors bind chemokines
+1.2825335879823e-08	REAC:R-HSA-375276	REAC	Peptide ligand-binding receptors
+2.95531654989431e-06	REAC:R-HSA-418594	REAC	G alpha (i) signalling events
+4.99245765485055e-06	REAC:R-HSA-373076	REAC	Class A/1 (Rhodopsin-like receptors)
+8.95372110488665e-06	REAC:R-HSA-5638303	REAC	Inhibition of Signaling by Overexpressed EGFR
+8.95372110488665e-06	REAC:R-HSA-5638302	REAC	Signaling by Overexpressed Wild-Type EGFR in Cancer
+1.60641138132069e-05	REAC:R-HSA-212718	REAC	EGFR interacts with phospholipase C-gamma
+4.17986092349824e-05	REAC:R-HSA-179812	REAC	GRB2 events in EGFR signaling
+6.24933852680142e-05	REAC:R-HSA-180336	REAC	SHC1 events in EGFR signaling
+0.000197169866460408	REAC:R-HSA-500792	REAC	GPCR ligand binding
+0.000226790541986431	REAC:R-HSA-180292	REAC	GAB1 signalosome
+0.00107848391494804	REAC:R-HSA-1643713	REAC	Signaling by EGFR in Cancer
+0.00128996200467058	REAC:R-HSA-9634638	REAC	Estrogen-dependent nuclear events downstream of ESR-membrane signaling
+0.00230428733548245	REAC:R-HSA-8856825	REAC	Cargo recognition for clathrin-mediated endocytosis
+0.00326235162752694	REAC:R-HSA-182971	REAC	EGFR downregulation
+0.00474129396913527	REAC:R-HSA-388396	REAC	GPCR downstream signalling
+0.0143255364690015	REAC:R-HSA-372790	REAC	Signaling by GPCR
+0.0148018911860413	REAC:R-HSA-8856828	REAC	Clathrin-mediated endocytosis
+0.0168896804452591	REAC:R-HSA-6783783	REAC	Interleukin-10 signaling
+0.0218423901020112	REAC:R-HSA-177929	REAC	Signaling by EGFR
+0.00542667873211401	TF:M08773	TF	Factor: HOXA7; motif: NYMATTAN
+0.00988685841580765	TF:M08772_1	TF	Factor: HOXA6; motif: NYMATTAN; match class: 1
+0.0132091400304512	TF:M11913	TF	Factor: POU3F2; motif: TAATTANNNNNNTAATTA
+0.0190356162219544	TF:M04300	TF	Factor: Dlx-2; motif: NYAATTAN
+0.0400794946663112	TF:M01734	TF	Factor: NFATc4; motif: WNNTTTTCCT
+8.83370988177323e-14	WP:WP5039	WP	SARS-CoV-2 innate immunity evasion and cell-specific immune response
+3.6357444805631e-13	WP:WP5095	WP	Overview of proinflammatory and profibrotic mediators
+2.77859558211936e-05	WP:WP5115	WP	Network map of SARS-CoV-2 signaling pathway
+0.000115738034139179	WP:WP5088	WP	Prostaglandin signaling
+0.000365505355241253	WP:WP3929	WP	Chemokine signaling pathway
