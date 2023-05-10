@@ -13312,7 +13312,3 @@ Motif_Identifier	GO_Term_Identifier	GOMo_Score	p-value	q-value
 9	GO:0015078	2.499e-02	1.459e-04	4.166e-02
 9	GO:0044437	2.534e-02	1.538e-04	4.286e-02
 9	GO:0006414	2.610e-02	1.722e-04	4.687e-02
-
-# GOMo (Gene Ontology for Motifs): Version 5.5.2 compiled on Apr  9 2023 at 14:33:54
-# The format of this file is described at https://meme-suite.org/meme/doc/gomo-output-format.html.
-# gomo --nostatus --verbosity 1 --oc . --t 0.05 --shuffle_scores 1000 --dag db/go.dag --motifs motifs.meme db/mammal_homo_sapiens_1000_199.na.csv mammal_homo_sapiens_1000_199.na.cisml mammal_mus_musculus_1000_199.na.cisml mammal_canis_familiaris_1000_199.na.cisml mammal_equus_caballus_1000_199.na.cisml
