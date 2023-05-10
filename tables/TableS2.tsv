@@ -1,4 +1,4 @@
-WD	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
+clusterID	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 WD	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	PATZ1_HUMAN.H11MO.0.C		GGGGMGGGGGMKGGRRVGGVRG	87	46.52	15	8.02	5.5	12	6.01e-18	-39.65	4.6
 WD	2e-15	-33.01	2.50e-15	-33.62
 WD	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	KLF16_HUMAN.H11MO.0.D		GGGGGYGKGKBGGGGGGGG	63	33.69	9	4.81	6.4	13	1.76e-13	-29.37	1.3
@@ -303,11 +303,6 @@ WD	151	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	KLF9_HUMAN.H1
 WD	8e-2	-3.39
 WD	152	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	TFE3_HUMAN.H11MO.0.B		RGTCACGTGA	81	43.32	59	31.55	1.37	9	1.23e-2	-4.39	9.49e0	2.25	3.3
 WD	8e-2	-3.39
-WD	
-WD	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-WD	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-WD	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p dyn_all.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-ED	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 ED	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.0.C		GGGAGGCYGAGGBRGGAGGATC	2840	42.36	63	0.94	44.4	16	6.05e-743	-1709.02	4.65e-740	-1702.38	4.65e-740	-1702.38
 ED	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN121_HUMAN.H11MO.0.C		CTGGGCAACABAGYRAGACC	2356	35.14	46	0.69	50.1	15	2.64e-625	-1438.15	2.03e-622	-1431.50	2.03e-622	-1431.50
 ED	3	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.1.C		DGGAGGCYGRG	1948	29.05	64	0.95	30	15	9.31e-484	-1112.22	7.16e-481	-1105.57	7.16e-481	-1105.57
@@ -838,11 +833,6 @@ ED	527	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	FOXP3_HUMAN.H
 ED	528	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	CEBPE_HUMAN.H11MO.0.A		TTKCGHAATMTB	4269	63.67	4054	60.46	1.05	8.5	1.18e-2	-4.44	9.08e0	2.21	4.39e-3	-5.43
 ED	529	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	NFIA_HUMAN.H11MO.1.D		MTTGGCW	565	8.43	490	7.31	1.15	11	1.22e-2	-4.40	9.41e0	2.24	4.54e-3	-5.39
 ED	530	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	HMX2_HUMAN.H11MO.0.D		DTTAAKTGNTT	759	11.32	672	10.02	1.13	12	1.26e-2	-4.38	9.65e0	2.27	4.65e-3	-5.37
-ED	
-ED	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-ED	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-ED	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p dyn_H3K27ac.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-SD	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 SD	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.0.C		GGGAGGCYGAGGBRGGAGGATC	2174	35.68	45	0.74	47.3	18	7.28e-674	-1549.96	5.60e-671	-1543.31	5.60e-671	-1543.31
 SD	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN121_HUMAN.H11MO.0.C		CTGGGCAACABAGYRAGACC	1731	28.41	30	0.49	55.9	16	1.72e-526	-1210.62	1.32e-523	-1203.98	1.32e-523	-1203.98
 SD	3	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.1.C		DGGAGGCYGRG	1986	32.59	269	4.41	7.36	15	7.14e-388	-891.44	5.49e-385	-884.79	5.49e-385	-884.79
@@ -1671,11 +1661,6 @@ SD	485	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	FOXK1_HUMAN.H
 SD	9e-3	-5.10
 SD	486	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	MYOD1_HUMAN.H11MO.1.A		CHGCAGCTGTY	4483	73.58	4372	71.75	1.03	6.8	1.27e-2	-4.37	9.75e0	2.28	6.6
 SD	6e-3	-5.01
-SD	
-SD	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-SD	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-SD	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p dyn_H3K27me3.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-PD	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 PD	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN121_HUMAN.H11MO.0.C		CTGGGCAACABAGYRAGACC	294	25.79	21	1.84	13.4	14	2.42e-61	-139.58	1.8
 PD	6e-58	-132.93	9.19e-59	-133.63
 PD	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.1.C		DGGAGGCYGRG	300	26.32	33	2.89	8.85	14	1.16e-53	-121.88	8.96e-51	-115.24	2.22e-51	-116.64
@@ -2253,11 +2238,6 @@ PD	296	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	MSX2_HUMAN.H1
 PD	10
 PD	297	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	NF2L1_HUMAN.H11MO.0.C		HGTCATN	239	20.96	186	16.32	1.28	11	1.30e-2	-4.34	9.98e0	2.30	1.66e-2	-4.
 PD	10
-PD	
-PD	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-PD	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-PD	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p dyn_H3K4me3.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-BD	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 BD	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	WT1_HUMAN.H11MO.0.C		RGGVGGGGGAGGRGGVGGRG	169	48.56	45	12.93	3.7	12	4.76e-17	-37.58	3.6
 BD	6e-14	-30.94	2.10e-14	-31.50
 BD	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	PATZ1_HUMAN.H11MO.0.C		GGGGMGGGGGMKGGRRVGGVRG	135	38.79	30	8.62	4.39	12	2.85e-16	-35.79	2.1
@@ -2542,11 +2522,6 @@ BD	141	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	VAX1_HUMAN.H1
 BD	7	3.95e-2	-3.23
 BD	142	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	KLF12_HUMAN.H11MO.0.C		VGGGGCGGGGC	111	31.90	75	21.55	1.47	11	1.29e-2	-4.35	9.89e0	2.29	3.9
 BD	9e-2	-3.22
-BD	
-BD	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-BD	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-BD	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p dyn_H3K4me3.H3K27me3.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-AD	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 AD	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.0.C		GGGAGGCYGAGGBRGGAGGATC	971	45.31	62	2.89	15.4	15	6.26e-267	-612.96	4.8
 AD	1e-264	-606.31	1.75e-264	-607.32
 AD	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN121_HUMAN.H11MO.0.C		CTGGGCAACABAGYRAGACC	861	40.18	52	2.43	16.3	12	1.22e-232	-534.00	9.4
@@ -3303,11 +3278,6 @@ AD	424	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	PITX1_HUMAN.H
 AD	3e-3	-4.78
 AD	425	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	EVI1_HUMAN.H11MO.0.B		WAGAYAAGATAANAKA	1834	85.58	1780	83.06	1.03	3.1	1.30e-2	-4.35	9.97e0	2.3
 AD	0	8.52e-3	-4.77
-AD	
-AD	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-AD	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-AD	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p dyn_H3K4me3.H3K4me2.H3K27ac.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-AS	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 AS	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN121_HUMAN.H11MO.0.C		CTGGGCAACABAGYRAGACC	66	45.21	1	0.68	33.5	15	3.98e-23	-51.58	3.06e-20	-44.93	1.45e-20	-45.68
 AS	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	SP2_HUMAN.H11MO.0.A		GGSSVGGGGGCGGGGCCDGSGS	143	97.95	77	52.74	1.85	9.9	6.71e-22	-48.75	5.16e-19	-42.11	1.22e-19	-43.55
 AS	3	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZBT17_HUMAN.H11MO.0.A		SRRGGWGGGGGAGGGGMRR	117	80.14	38	26.03	3.03	11	2.91e-21	-47.29	2.24e-18	-40.64	3.53e-19	-42.49
@@ -3505,11 +3475,6 @@ AS	194	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	TEAD4_HUMAN.H
 AS	195	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	PIT1_HUMAN.H11MO.0.C		YTMATGAATATWY	127	86.99	111	76.03	1.14	8.2	1.16e-2	-4.46	8.90e0	2.19	2.16e-2	-3.83
 AS	196	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN768_HUMAN.H11MO.0.C		GAGGCHCAGAGAGGTTAAGT	36	24.66	20	13.70	1.76	10	1.26e-2	-4.37	9.68e0	2.27	2.34e-2	-3.76
 AS	197	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	NR1D1_HUMAN.H11MO.0.B		RRRNMASTGGGTCAGDRDR	49	33.56	31	21.23	1.56	12	1.27e-2	-4.37	9.75e0	2.28	2.34e-2	-3.75
-AS	
-AS	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-AS	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-AS	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p stable_all.H3K27me3_ind.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
-SS	RANK	DB	ID	ALT_ID	CONSENSUS	TP	TP%	FP	FP%	ENR_RATIO	SCORE_THR	PVALUE	LOG_PVALUE	EVALUE	LOG_EVALUE	QVALUE	LOG_QVALUE
 SS	1	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.0.C		GGGAGGCYGAGGBRGGAGGATC	2393	40.86	11	0.19	199	21	1.31e-828	-1906.27	1.01e-825	-1899.63	1.01e-825	-1899.63
 SS	2	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN121_HUMAN.H11MO.0.C		CTGGGCAACABAGYRAGACC	2193	37.45	36	0.61	59.3	16	2.67e-700	-1610.83	2.05e-697	-1604.18	2.05e-697	-1604.18
 SS	3	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	ZN770_HUMAN.H11MO.1.C		DGGAGGCYGRG	2628	44.88	425	7.26	6.17	15	2.36e-509	-1171.16	1.82e-506	-1164.51	1.82e-506	-1164.51
@@ -4007,7 +3972,3 @@ SS	494	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	HXA9_HUMAN.H1
 SS	495	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	SOX13_HUMAN.H11MO.0.D		YATTGTTY	750	12.81	669	11.42	1.12	11	1.17e-2	-4.45	9.02e0	2.20	5.28e-3	-5.24
 SS	496	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	HESX1_HUMAN.H11MO.0.D		ABSYGGCWMRTRRMMT	1398	23.87	1294	22.10	1.08	12	1.18e-2	-4.44	9.11e0	2.21	5.31e-3	-5.24
 SS	497	motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme	SOX18_HUMAN.H11MO.0.D		SHWHVMWTTGTTBTYKTCC	249	4.25	201	3.43	1.24	15	1.19e-2	-4.43	9.13e0	2.21	5.32e-3	-5.24
-SS	
-SS	# SEA (Simple Enrichment Analysis): Version 5.5.2 compiled on Apr  9 2023 at 14:33:57
-SS	# The format of this file is described at https://meme-suite.org/meme/doc/sea-output-format.html.
-SS	# sea --verbosity 1 --oc . --thresh 10.0 --align center --p stable_H3K27me3.bed.fa --m motif_db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
