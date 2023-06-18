@@ -1167,7 +1167,3 @@ Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensu
 46-CTTCCTTCCT	SP4_HUMAN.H11MO.0.A	10	0.0115573	8.88753	0.439141	10	CTTCCTTCCT	CCCGGCCCCGCCCCCTTCCC	-
 46-CTTCCTTCCT	PATZ1_HUMAN.H11MO.1.C	-1	0.0115702	8.89747	0.439141	9	CTTCCTTCCT	CCCCTCCCT	-
 46-CTTCCTTCCT	ZN586_HUMAN.H11MO.0.C	4	0.0120546	9.27002	0.446369	10	CTTCCTTCCT	CATTTTTTCCTCCTAGGCCT	-
-
-# Tomtom (Motif Comparison Tool): Version 5.5.2 compiled on Apr  9 2023 at 14:34:01
-# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
-# tomtom -no-ssc -oc . -verbosity 1 -min-overlap 5 -dist pearson -evalue -thresh 10.0 STREME.dyn_H3K27me3.txt db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
