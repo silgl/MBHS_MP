@@ -188,7 +188,3 @@ Query_ID	Target_ID	Optimal_offset	p-value	E-value	q-value	Overlap	Query_consensu
 4-CGCGCCGCCGCCC	ZIC4_HUMAN.H11MO.0.D	2	0.00888894	6.8356	0.354994	13	CGCGCCGCCGCCC	GACCCCCCGCTGTGC	-
 4-CGCGCCGCCGCCC	MAZ_HUMAN.H11MO.1.A	-4	0.0115588	8.88873	0.449782	9	CGCGCCGCCGCCC	CCCCCTCCCTC	-
 4-CGCGCCGCCGCCC	ZN770_HUMAN.H11MO.0.C	6	0.0120685	9.28067	0.457875	13	CGCGCCGCCGCCC	GATCCTCCCGCCTCAGCCTCCC	-
-
-# Tomtom (Motif Comparison Tool): Version 5.5.3 compiled on Jun 15 2023 at 16:41:46
-# The format of this file is described at https://meme-suite.org/meme/doc/tomtom-output-format.html.
-# tomtom -no-ssc -oc . -verbosity 1 -min-overlap 5 -dist pearson -evalue -thresh 10.0 STREME.dyn_H3K4me3.H3K27me3.txt db/HUMAN/HOCOMOCOv11_full_HUMAN_mono_meme_format.meme
